@@ -1,0 +1,28 @@
+{
+  "name": "weatherapp",
+  "license": "0BSD",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@lottiefiles/dotlottie-react": "^0.13.5",
+    "axios": "^1.13.2",
+    "expo": "~54.0.25",
+    "expo-linear-gradient": "~15.0.7",
+    "expo-status-bar": "~3.0.8",
+    "lottie-ios": "^4.5.1",
+    "lottie-react-native": "^7.3.4",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-native": "0.81.5",
+    "react-native-elements": "^3.4.3",
+    "react-native-linear-gradient": "^2.8.3",
+    "react-native-web": "^0.21.0"
+  },
+  "private": true
+}
